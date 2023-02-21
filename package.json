@@ -1,0 +1,22 @@
+{
+  "name": "kubernetes-based-continuous-delivery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chloekang234/Kubernetes-based-Continuous-Delivery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chloekang234/Kubernetes-based-Continuous-Delivery/issues"
+  },
+  "homepage": "https://github.com/chloekang234/Kubernetes-based-Continuous-Delivery#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
